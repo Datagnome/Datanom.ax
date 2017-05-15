@@ -1,35 +1,26 @@
 .navbar {
-	background-color: #E4E5E3;
 	margin-bottom: 0px;
-}
-.navbar-default {
-  background-color: #72c2eb;
-  background-image: none;
-  background-repeat: no-repeat;
-  border-color: #520D87;
-  border-radius: 0px;
-  -moz-box-shadow: 2px 2px 2px #ccc;
-   -webkit-box-shadow: 3px 3px 3px #ccc;
-   box-shadow: 3px 3px 3px #ccc;
- }
-.navbar-default .btn-link {
-	color: black;
+	border-radius: 0px;
+	background-color: #009bdb;
+	-moz-box-shadow: 2px 2px 2px #ccc;
+    -webkit-box-shadow: 3px 3px 3px #ccc;
+    box-shadow: 3px 3px 3px #ccc;
 }
 .datbar {
+	background-color: #009bdb;
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
-
-
-.navbar-default .btn-link {
+h2 a{
+	color: #fff;
+}
+.btn-link {
 	color: #fff;
 }
 .jesus {
+	margin-top: 0.5em;
 	background-color: #E4E5E3;
-}
-body {
-	background-color: #fff;
-}
-body nav div div h2 a{
-	color: #fff;
+	-moz-box-shadow: 2px 2px 2px #ccc;
+    -webkit-box-shadow: 3px 3px 3px #ccc;
+    box-shadow: 3px 3px 3px #ccc;
 }
