@@ -17,3 +17,11 @@ body {
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
+
+body nav div div h2 a{
+	color: black;
+}
+
+.navbar-default .btn-link {
+	color: black;
+}
