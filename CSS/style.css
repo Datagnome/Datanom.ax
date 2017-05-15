@@ -16,9 +16,17 @@
 	margin-top: 0.5em;
 	background-color: rgba(253, 253, 253, 0.7);
 }
+.footer-size{
+	background-color: rgba(0,0,0,0.7);
+}
+.psize {
+	font-size: 0.6em;
+	margin-bottom: 0px;
+}
 body {
 	background-image: url("../IMAGES/pRnucMs.jpg");
 	font-family: 'Roboto', sans-serif;
+	padding-bottom: 70px;
 }
 h2 a{
 	color: #fff;
