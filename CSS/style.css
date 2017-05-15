@@ -2,13 +2,18 @@ body {
 	background-color: #520D87;
 }
 
-.navbar .navbar-default {
-	background-color: #A66CD4;
-    border-radius: 0px;
-    -moz-box-shadow: 2px 2px 2px #ccc;
-    -webkit-box-shadow: 3px 3px 3px #ccc;
-    box-shadow: 3px 3px 3px #ccc;
-}
+.navbar-default {
+  background-color: #A66CD4;
+  background-image: none;
+  background-repeat: no-repeat;
+  border-color: #520D87;
+  border-radius: 0px;
+  -moz-box-shadow: 2px 2px 2px #000;
+   -webkit-box-shadow: 3px 3px 3px #000;
+   box-shadow: 3px 3px 3px #000;
+ }
+
 .datbar {
 	margin-top: 1em;
+	margin-bottom: 1em;
 }
