@@ -1,3 +1,11 @@
 body {
+	background-color: #520D87;
+}
 
+.navbar .navbar-default {
+	background-color: #A66CD4;
+    border-radius: 0px;
+    -moz-box-shadow: 2px 2px 2px #ccc;
+    -webkit-box-shadow: 3px 3px 3px #ccc;
+    box-shadow: 3px 3px 3px #ccc;
 }
