@@ -1,14 +1,11 @@
 .navbar {
 	margin-bottom: 0px;
 	border-radius: 0px;
-	background-color: #009bdb;
-	-moz-box-shadow: 2px 2px 2px #ccc;
-    -webkit-box-shadow: 3px 3px 3px #ccc;
-    box-shadow: 3px 3px 3px #ccc;
+	background-color: rgba(0,0,0,0);
 }
 
 .datbar {
-	background-color: #009bdb;
+	background-color: rgba(0,0,0,0);
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
@@ -17,13 +14,10 @@
 }
 .jesus {
 	margin-top: 0.5em;
-	background-color: #E4E5E3;
-	-moz-box-shadow: 2px 2px 2px #ccc;
-    -webkit-box-shadow: 3px 3px 3px #ccc;
-    box-shadow: 3px 3px 3px #ccc;
+	background-color: rgba(253, 253, 253, 0.7);
 }
 body {
-	background-image: url("IMAGES/pRnucMs.jpg");
+	background-image: url("../IMAGES/pRnucMs.jpg");
 	font-family: 'Roboto', sans-serif;
 }
 h2 a{
