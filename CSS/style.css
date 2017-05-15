@@ -9,3 +9,6 @@ body {
     -webkit-box-shadow: 3px 3px 3px #ccc;
     box-shadow: 3px 3px 3px #ccc;
 }
+.datbar {
+	margin-top: 1em;
+}
