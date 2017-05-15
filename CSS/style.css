@@ -1,7 +1,7 @@
-body {
-	background-color: #fff;
+.navbar {
+	background-color: #E4E5E3;
+	margin-bottom: 0px;
 }
-
 .navbar-default {
   background-color: #72c2eb;
   background-image: none;
@@ -12,16 +12,24 @@ body {
    -webkit-box-shadow: 3px 3px 3px #ccc;
    box-shadow: 3px 3px 3px #ccc;
  }
-
+.navbar-default .btn-link {
+	color: black;
+}
 .datbar {
 	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
-body nav div div h2 a{
-	color: #fff;
-}
 
 .navbar-default .btn-link {
+	color: #fff;
+}
+.jesus {
+	background-color: #E4E5E3;
+}
+body {
+	background-color: #fff;
+}
+body nav div div h2 a{
 	color: #fff;
 }
